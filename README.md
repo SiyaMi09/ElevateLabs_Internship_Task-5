@@ -6,8 +6,11 @@ Extract insights using visual and statistical exploration.
 Exploratory data analysis of the Titanic dataset. Notebook explores distributions, missingness, relationships, and produces insights.
 
 ## Files
-- Elevate Labs_Task 5.ipynb : Jupyter notebook with code and plots
-- README.md
+- **Task 5_Elevate Labs.ipynb** – Jupyter notebook with complete data cleaning, feature engineering, and EDA.
+- **train.csv** – Training dataset with passenger details and survival status.
+- **test.csv** – Test dataset without survival labels (used for prediction tasks).
+- **gender_submission.csv** – Sample submission file for Kaggle.
+- **README.md** – Project overview and instructions.
 
 ## 📂 Dataset Information
 - **Training Data (`train.csv`)**  
